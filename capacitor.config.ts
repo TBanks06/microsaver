@@ -1,9 +1,9 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'microsaver',
-  webDir: 'dist'
+  appId: 'com.wayoutmobility.microsaver',
+  appName: 'Microsaver',
+  webDir: 'build'
 };
 
 export default config;
